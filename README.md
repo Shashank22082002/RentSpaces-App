@@ -1,9 +1,11 @@
 # RentSpaces-App
 
-To Run The application download the python scripts and install mysqlconnector(Run command pip3 install mysql-connector-python) and tkcalender(pip3 install tkcalender)
+To Run The application download the python scripts and install mysqlconnector(Run command pip3 install mysql-connector-python) and tkcalender(pip3 install tkcalender).
+
 If you have mysql you can run the sql file and get the database inside your system too. Change the host-name, password, user, database-name in the scripts file.
 
-Our Car Rental Company “RentSpaces” keeps a number of offices in many cities. Each office maintains a number of cars with many carTypes.
+# Description
+Our Car Rental Application “RentSpaces” keeps a number of offices in many cities. Each office maintains a number of cars with many carTypes.
 The Car types include: Mini,Truck,Van,Prime,Sedan.
 
 “RentSpaces” maintains a list of all their customers. When a customer first signs in to the portal, customer name, email_ID, address and phone number is recorded. A customer is identified by a unique customer id generated on signing up in the portal.
